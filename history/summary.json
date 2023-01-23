@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.194.ico",
     "slug": "rover-95-forums",
     "status": "down",
-    "uptime": "35.44%",
-    "uptimeDay": "35.44%",
-    "uptimeWeek": "35.44%",
-    "uptimeMonth": "35.44%",
-    "uptimeYear": "35.44%",
+    "uptime": "9.73%",
+    "uptimeDay": "9.73%",
+    "uptimeWeek": "9.73%",
+    "uptimeMonth": "9.73%",
+    "uptimeYear": "9.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 0
+      "2023-01-23": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/31163.ico",
     "slug": "zell-craft-series",
     "status": "down",
-    "uptime": "60.98%",
-    "uptimeDay": "60.98%",
-    "uptimeWeek": "60.98%",
-    "uptimeMonth": "60.98%",
-    "uptimeYear": "60.98%",
+    "uptime": "10.44%",
+    "uptimeDay": "10.44%",
+    "uptimeWeek": "10.44%",
+    "uptimeMonth": "10.44%",
+    "uptimeYear": "10.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 0
+      "2023-01-23": 2
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 391,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
