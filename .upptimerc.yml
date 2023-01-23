@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /Up-time
   logoUrl: https://zell.vercel.app/resource/images/RZL_psd%20-%20128%20128.png
   name: Rover95
   introTitle: "Its **Rover 95**in time!"
