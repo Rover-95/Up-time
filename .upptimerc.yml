@@ -7,6 +7,7 @@ sites:
     url: http://147.185.221.194:63491/forum/index.php?forums/
   - name: Zell Website Demo
     url: https://zell.vercel.app
+    icon: https://zell.vercel.app/resource/images/RZL_psd%20-%20128%20128.png
   - name: Zell Craft SERIES
     url: 147.185.221.212:31163 
   - name: Exprite
@@ -17,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /Up-time
-  logoUrl: https://zell.vercel.app/resource/images/RZL_psd%20-%20128%20128.png
+  logoUrl: https://zell.vercel.app/resource/images/rover95di.png
   name: Rover95
   introTitle: "Its **Rover 95**in time!"
   introMessage: This repo displays the [ROVER 95](https://rover95.vercel.app) uptime for most Rover 95 Services / Servers.
