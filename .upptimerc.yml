@@ -15,8 +15,11 @@ sites:
     url: 147.185.221.212:31163 
   - name: Exprite Website
     url: https://exprite.vercel.app/
+  - name: Exprite EZ FTP 
+    url: http://147.185.221.180:60054/
   - name: Reink Hosting
     url: https://reink.vercel.app/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
