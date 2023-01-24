@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.194.ico",
     "slug": "rover-95-forums",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 1136,
+      "2023-01-24": 1273,
       "2023-01-23": 346
     }
   },
@@ -62,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/31163.ico",
     "slug": "zell-craft-series",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 1136,
+      "2023-01-24": 1273,
       "2023-01-23": 346
     }
   },
@@ -100,19 +100,19 @@
     "url": "http://147.185.221.180:60054/",
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.180.ico",
     "slug": "exprite-ez-ftp",
-    "status": "up",
-    "uptime": "3.40%",
-    "uptimeDay": "3.40%",
-    "uptimeWeek": "3.40%",
-    "uptimeMonth": "3.40%",
-    "uptimeYear": "3.40%",
+    "status": "down",
+    "uptime": "2.59%",
+    "uptimeDay": "2.59%",
+    "uptimeWeek": "2.59%",
+    "uptimeMonth": "2.59%",
+    "uptimeYear": "2.59%",
     "time": 808,
     "timeDay": 808,
     "timeWeek": 808,
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-01-24": 427
+      "2023-01-24": 565
     }
   },
   {
@@ -132,7 +132,7 @@
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-01-24": 495
+      "2023-01-24": 633
     }
   }
 ]
