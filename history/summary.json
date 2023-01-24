@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 958,
-    "timeWeek": 958,
-    "timeMonth": 958,
-    "timeYear": 958,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 641,
+      "2023-01-24": 693,
       "2023-01-23": 346
     }
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 641,
+      "2023-01-24": 693,
       "2023-01-23": 346
     }
   },
@@ -88,11 +88,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Exprite EZ FTP",
+    "url": "http://147.185.221.180:60054/",
+    "icon": "https://icons.duckduckgo.com/ip3/147.185.221.180.ico",
+    "slug": "exprite-ez-ftp",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 850,
+    "timeDay": 850,
+    "timeWeek": 850,
+    "timeMonth": 850,
+    "timeYear": 850,
     "dailyMinutesDown": {}
   },
   {
@@ -101,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/reink.vercel.app.ico",
     "slug": "reink-hosting",
     "status": "down",
-    "uptime": "10.74%",
-    "uptimeDay": "10.74%",
-    "uptimeWeek": "10.74%",
-    "uptimeMonth": "10.74%",
-    "uptimeYear": "10.74%",
-    "time": 302,
-    "timeDay": 302,
-    "timeWeek": 302,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 53
     }
   }
 ]
