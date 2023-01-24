@@ -24,7 +24,7 @@
     "slug": "rover-95-forums",
     "status": "down",
     "uptime": "0.02%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 708,
+      "2023-01-24": 1136,
       "2023-01-23": 346
     }
   },
@@ -50,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 257,
+    "timeDay": 129,
     "timeWeek": 257,
     "timeMonth": 257,
     "timeYear": 257,
@@ -63,7 +63,7 @@
     "slug": "zell-craft-series",
     "status": "down",
     "uptime": "0.02%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-24": 708,
+      "2023-01-24": 1136,
       "2023-01-23": 346
     }
   },
@@ -100,19 +100,19 @@
     "url": "http://147.185.221.180:60054/",
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.180.ico",
     "slug": "exprite-ez-ftp",
-    "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 850,
-    "timeDay": 850,
-    "timeWeek": 850,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "status": "up",
+    "uptime": "3.40%",
+    "uptimeDay": "3.40%",
+    "uptimeWeek": "3.40%",
+    "uptimeMonth": "3.40%",
+    "uptimeYear": "3.40%",
+    "time": 808,
+    "timeDay": 808,
+    "timeWeek": 808,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 427
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/reink.vercel.app.ico",
     "slug": "reink-hosting",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 197,
     "timeDay": 197,
     "timeWeek": 197,
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-01-24": 68
+      "2023-01-24": 495
     }
   }
 ]
