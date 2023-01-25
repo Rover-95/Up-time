@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 1102,
+      "2023-01-25": 1118,
       "2023-01-24": 1440,
       "2023-01-23": 346
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 1102,
+      "2023-01-25": 1118,
       "2023-01-24": 1440,
       "2023-01-23": 346
     }
@@ -102,7 +102,7 @@
     "url": "http://147.185.221.180:60054/",
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.180.ico",
     "slug": "exprite-ez-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "0.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.81%",
@@ -114,7 +114,7 @@
     "timeMonth": 702,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-01-25": 1102,
+      "2023-01-25": 1118,
       "2023-01-24": 732
     }
   },
@@ -135,7 +135,7 @@
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-01-25": 1102,
+      "2023-01-25": 1118,
       "2023-01-24": 799
     }
   }
