@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 688,
+      "2023-01-25": 1102,
       "2023-01-24": 1440,
       "2023-01-23": 346
     }
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 289,
+    "timeDay": 489,
     "timeWeek": 290,
     "timeMonth": 290,
     "timeYear": 290,
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 688,
+      "2023-01-25": 1102,
       "2023-01-24": 1440,
       "2023-01-23": 346
     }
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 103,
+    "timeDay": 113,
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
@@ -102,19 +102,19 @@
     "url": "http://147.185.221.180:60054/",
     "icon": "https://icons.duckduckgo.com/ip3/147.185.221.180.ico",
     "slug": "exprite-ez-ftp",
-    "status": "down",
-    "uptime": "1.05%",
-    "uptimeDay": "1.05%",
-    "uptimeWeek": "1.05%",
-    "uptimeMonth": "1.05%",
-    "uptimeYear": "1.05%",
-    "time": 734,
-    "timeDay": 734,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "status": "up",
+    "uptime": "0.81%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
+    "time": 702,
+    "timeDay": 652,
+    "timeWeek": 702,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-01-25": 688,
+      "2023-01-25": 1102,
       "2023-01-24": 732
     }
   },
@@ -130,12 +130,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 198,
-    "timeDay": 146,
+    "timeDay": 200,
     "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-01-25": 688,
+      "2023-01-25": 1102,
       "2023-01-24": 799
     }
   }
