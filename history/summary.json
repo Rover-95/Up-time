@@ -4,18 +4,20 @@
     "url": "rover95.vercel.app",
     "icon": "https://zell.vercel.app/resource/images/rover95l.png",
     "slug": "rover-95-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 115,
     "timeWeek": 141,
     "timeMonth": 140,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 2
+    }
   },
   {
     "name": "Rover 95 FORUMS",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2024-01-12": 27,
+      "2024-01-12": 901,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -426,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 28,
+      "2024-01-12": 901,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -788,10 +790,10 @@
     "url": "https://exprite.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/exprite.vercel.app.ico",
     "slug": "exprite-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
@@ -799,7 +801,9 @@
     "timeWeek": 73,
     "timeMonth": 80,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 1
+    }
   },
   {
     "name": "Exprite EZ FTP",
@@ -818,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-01-12": 28,
+      "2024-01-12": 901,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1191,7 +1195,7 @@
     "timeMonth": 78,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-01-12": 28,
+      "2024-01-12": 901,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
