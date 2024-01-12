@@ -4,19 +4,19 @@
     "url": "rover95.vercel.app",
     "icon": "https://zell.vercel.app/resource/images/rover95l.png",
     "slug": "rover-95-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 115,
-    "timeWeek": 141,
+    "time": 165,
+    "timeDay": 123,
+    "timeWeek": 140,
     "timeMonth": 140,
-    "timeYear": 166,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-01-12": 2
+      "2024-01-12": 22
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2024-01-12": 901,
+      "2024-01-12": 921,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -428,7 +428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 901,
+      "2024-01-12": 921,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -790,19 +790,19 @@
     "url": "https://exprite.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/exprite.vercel.app.ico",
     "slug": "exprite-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 47,
-    "timeWeek": 73,
-    "timeMonth": 80,
-    "timeYear": 101,
+    "time": 100,
+    "timeDay": 50,
+    "timeWeek": 70,
+    "timeMonth": 79,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2024-01-12": 1
+      "2024-01-12": 20
     }
   },
   {
@@ -822,7 +822,7 @@
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-01-12": 901,
+      "2024-01-12": 921,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1195,7 +1195,7 @@
     "timeMonth": 78,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2024-01-12": 901,
+      "2024-01-12": 921,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
