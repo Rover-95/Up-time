@@ -1,7 +1,7 @@
 url: https://zell.vercel.app
-status: up
-code: 200
-responseTime: 48
-lastUpdated: 2024-01-16T23:07:53.971Z
+status: down
+code: 500
+responseTime: 1098
+lastUpdated: 2024-01-17T21:42:09.978Z
 startTime: 2023-01-23T18:13:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
